@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag patel</h1>
-<h3 align="right">A 3rd Year Computer Science Under-grad and a Passionate Flutter developer.</h3>
-
-
+<h3 align="center">A 3rd Year Computer Science Under-grad and a Passionate Flutter developer.</h3>
+<img align= "right" alt="coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonel-chirag&label=Profile%20views&color=0e75b6&style=flat" alt="colonel-chirag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colonel-chirag" alt="colonel-chirag" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imchiragpatel7" target="blank"><img src="https://img.shields.io/twitter/follow/imchiragpatel7?logo=twitter&style=for-the-badge" alt="imchiragpatel7" /></a> </p>
 
