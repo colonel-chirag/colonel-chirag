@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chirag patel</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Chirag patel</h1>
 <h3 align="center">A Final Year Computer Science Under-grad and a Passionate Flutter developer.</h3>
 <img align= "right" alt="coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonel-chirag&label=Profile%20views&color=0e75b6&style=flat" alt="colonel-chirag" /> </p>
