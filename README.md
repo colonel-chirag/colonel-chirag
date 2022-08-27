@@ -27,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colonel-chirag&show_icons=true&locale=en" alt="colonel-chirag" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=colonel-chirag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colonel-chirag&" alt="colonel-chirag" /></p>
