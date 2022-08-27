@@ -25,7 +25,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=colonel-chirag&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=colonel-chirag&show_icons=true&locale=en&layout=compact" alt="colonel-chirag" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=colonel-chirag-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=colonel-chirag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
