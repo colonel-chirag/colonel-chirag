@@ -33,5 +33,6 @@
 <div align="center">
 <img width="550px" src="https://github-readme-stats.vercel.app/api?username=colonel-chirag&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&custom_title=" alt="" />
 
+  <img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=colonel-chirag&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE0&sideLabels=4ADEDE&dates=4ADEDE&stroke=" />
 
 </div>
