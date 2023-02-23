@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cp80016@gmail.com** | **(+91) 909 846 5107** 
 
-- 👨‍ Resume - [https://drive.google.com/file/d/1GGcwTWoXtAEyDOeHL-CQXn-3M7fogwlK/view?usp=sharing](Click here to view!)
+- 👨‍ Resume [Click here to view !](https://drive.google.com/file/d/1GGcwTWoXtAEyDOeHL-CQXn-3M7fogwlK/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
