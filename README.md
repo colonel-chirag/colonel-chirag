@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **Data Analysis, Flutter, Android , C++ , Linux .**
 
-- 📫 How to reach me **cp80016@gmail.com** | (+91) 909 846 5107 
+- 📫 How to reach me **cp80016@gmail.com** | **(+91) 909 846 5107** 
+
+- 👨‍ Resume - https://drive.google.com/file/d/1GGcwTWoXtAEyDOeHL-CQXn-3M7fogwlK/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
