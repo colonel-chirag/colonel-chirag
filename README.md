@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Data Analysis, Flutter , Project Management , Microsoft Azure .**
 
-- 👨‍💻 All of my projects are available at [https://chiragpatel.carrd.co/](https://chiragpatel.carrd.co/)
+- 👨‍💻 All of my projects are available at my portfolio website [https://chiragpatel.carrd.co/](https://chiragpatel.carrd.co/)
 
 - 💬 Ask me about **Data Analysis, Flutter, Android , C++ , Linux .**
 
-- 📫 How to reach me **cp80016@gmail.com**
+- 📫 How to reach me **cp80016@gmail.com** | (+91) 909 846 5107 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
