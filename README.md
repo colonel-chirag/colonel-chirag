@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imchiragpatel7" target="blank"><img src="https://img.shields.io/twitter/follow/imchiragpatel7?logo=twitter&style=for-the-badge" alt="imchiragpatel7" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis, Flutter , Project Management , Microsoft Azure .**
+- 🌱 I’m currently learning ** Microsoft PowerBI, Beautiful Soup 4, Selenium Web Driver, Flutter , Project Management , Microsoft Azure .**
 
 - 👨‍💻 All of my projects are available at my portfolio website [https://chiragpatel.carrd.co/](https://chiragpatel.carrd.co/)
 
