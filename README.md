@@ -1,11 +1,11 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Chirag patel</h1>
-<h3 align="center">A Final Year Computer Science Under-grad and a Passionate Data Analyst.</h3>
+<h3 align="center">Data Analyst Intern - Carhp|Collegedunia & Final Year Undergrad majoring B-Tech in CSE.</h3>
 <img align= "right" alt="coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonel-chirag&label=Visitors&color=0e75b6&style=flat" alt="colonel-chirag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imchiragpatel7" target="blank"><img src="https://img.shields.io/twitter/follow/imchiragpatel7?logo=twitter&style=for-the-badge" alt="imchiragpatel7" /></a> </p>
 
-- 🌱 I’m currently learning ** Microsoft PowerBI, Beautiful Soup 4, Selenium Web Driver, Flutter , Project Management , Microsoft Azure .**
+- 🌱 I’m currently learning **Microsoft PowerBI, Beautiful Soup 4, Selenium Web Driver, Flutter , Project Management , Microsoft Azure .**
 
 - 👨‍💻 All of my projects are available at my portfolio website [https://chiragpatel.carrd.co/](https://chiragpatel.carrd.co/)
 
