@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imchiragpatel7" target="blank"><img src="https://img.shields.io/twitter/follow/imchiragpatel7?logo=twitter&style=for-the-badge" alt="imchiragpatel7" /></a> </p>
 
-- 🌱 Proficient in **Microsoft PowerBI, Tableau, Beautiful Soup 4, Selenium Web Driver, Project Management, and Microsoft Azure .**
+- 🌱 Proficient in **Web Scrapping, Microsoft PowerBI, Tableau, Beautiful Soup 4, Selenium Web Driver, Project Management, and Microsoft Azure .**
 
 - 👨‍💻 All of my projects are available at my portfolio website [https://chiragpatel.carrd.co/](https://chiragpatel.carrd.co/)
 
